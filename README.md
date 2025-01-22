@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, Nesxt.js, MongDB**
 
-- 📫 How to reach me **amar@gmail.com**
+- 📫 How to reach me **amarkumar36279@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
