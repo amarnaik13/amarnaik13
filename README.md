@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amarnaik13" alt="amarnaik13" /></a> </p>
 
-- 🔭 I’m currently working on [Hi-Tech-Chat-BOT](https://chat-5l0i1rgm0-amarnaik13s-projects.vercel.app/)
+- 🔭 I’m currently working on [Hi-Tech-Chat-BOT](https://chat-5l0i1rgm0-amarnaik13s-projects.vercel.app/)](https://chat-e1piq9qxn-amarnaik13s-projects.vercel.app/)
 
 - 🌱 I’m currently learning **React, Nesxt.js, MongDB**
 
